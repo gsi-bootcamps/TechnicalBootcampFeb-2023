@@ -1,4 +1,4 @@
-# Technical Bootcamp Jan-2023
+# Technical Bootcamp Feb-2023
 
 Welcome 👋 to the Technical Bootcamp 2023.
 
